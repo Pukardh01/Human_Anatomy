@@ -1,0 +1,295 @@
+{
+    "quiz": [
+        {
+            "question": "What is the main function of the Circulatory System?",
+            "options": {
+                "1": "Enables breathing and facilitates gas exchange in the lungs.",
+                "2": "Transports blood, oxygen, nutrients, hormones, and waste products throughout the body.",
+                "3": "Breaks down food into nutrients for energy, growth, and cell repair; eliminates waste.",
+                "4": "Controls body functions and responses to stimuli; processes and transmits information."
+            },
+            "answer": 2
+        },
+        {
+            "question": "Which system does the Heart belong to?",
+            "options": {
+                "1": "Circulatory System",
+                "2": "Respiratory System",
+                "3": "Digestive System",
+                "4": "Nervous System"
+            },
+            "answer": 1
+        },
+        {
+            "question": "What is the Latin name for the Heart?",
+            "options": {
+                "1": "cor",
+                "2": "pulmo",
+                "3": "ventriculus",
+                "4": "femur"
+            },
+            "answer": 1
+        },
+        {
+            "question": "What is the main function of the Lungs?",
+            "options": {
+                "1": "Pump blood and oxygen around the body.",
+                "2": "Process gas exchange called respiration (or breathing).",
+                "3": "Break down food using stomach acid.",
+                "4": "Enable movement of the leg."
+            },
+            "answer": 2
+        },
+        {
+            "question": "Which system does the Lungs belong to?",
+            "options": {
+                "1": "Respiratory System",
+                "2": "Circulatory System",
+                "3": "Digestive System",
+                "4": "Muscular System"
+            },
+            "answer": 1
+        },
+        {
+            "question": "What is the Latin name for the Lungs?",
+            "options": {
+                "1": "pulmo",
+                "2": "cor",
+                "3": "ventriculus",
+                "4": "intestinum tenue"
+            },
+            "answer": 1
+        },
+        {
+            "question": "What is the main function of the Digestive System?",
+            "options": {
+                "1": "Protects the body from pathogens.",
+                "2": "Breaks down food into nutrients for energy, growth, and cell repair; eliminates waste.",
+                "3": "Transports blood, oxygen, and nutrients.",
+                "4": "Processes signals from the body."
+            },
+            "answer": 2
+        },
+        {
+            "question": "What is the main function of the Stomach?",
+            "options": {
+                "1": "Break down food using stomach acid.",
+                "2": "Filter harmful substances from the lymph.",
+                "3": "Produce insulin and digestive enzymes.",
+                "4": "Transmit signals between the brain and body."
+            },
+            "answer": 1
+        },
+        {
+            "question": "Which system does the Small Intestine belong to?",
+            "options": {
+                "1": "Respiratory System",
+                "2": "Circulatory System",
+                "3": "Digestive System",
+                "4": "Muscular System"
+            },
+            "answer": 3
+        },
+        {
+            "question": "What is the Latin name for the Small Intestine?",
+            "options": {
+                "1": "intestinum tenue",
+                "2": "ventriculus",
+                "3": "cor",
+                "4": "pulmo"
+            },
+            "answer": 1
+        },
+        {
+            "question": "What is the main function of the Brain?",
+            "options": {
+                "1": "Control center of the body.",
+                "2": "Filter harmful substances from the lymph.",
+                "3": "Carry oxygenated blood away from the heart.",
+                "4": "Regulate metabolism."
+            },
+            "answer": 1
+        },
+        {
+            "question": "Which system does the Brain belong to?",
+            "options": {
+                "1": "Nervous System",
+                "2": "Respiratory System",
+                "3": "Digestive System",
+                "4": "Circulatory System"
+            },
+            "answer": 1
+        },
+        {
+            "question": "What is the main function of the Biceps?",
+            "options": {
+                "1": "Enable movement of the arm.",
+                "2": "Protect the brain.",
+                "3": "Produce hormones like adrenaline.",
+                "4": "Filter blood and produce urine."
+            },
+            "answer": 1
+        },
+        {
+            "question": "Which system does the Rib Cage belong to?",
+            "options": {
+                "1": "Skeletal System",
+                "2": "Muscular System",
+                "3": "Respiratory System",
+                "4": "Nervous System"
+            },
+            "answer": 1
+        },
+        {
+            "question": "What is the Latin name for the Thyroid?",
+            "options": {
+                "1": "glandula thyreoidea",
+                "2": "renes",
+                "3": "splen",
+                "4": "nervi"
+            },
+            "answer": 1
+        },
+        {
+            "question": "What is the main function of the Immune System?",
+            "options": {
+                "1": "Protects the body from pathogens and maintains overall health.",
+                "2": "Breaks down food into nutrients.",
+                "3": "Enables movement and posture.",
+                "4": "Produces insulin for digestion."
+            },
+            "answer": 1
+        },
+        {
+            "question": "Which system does the Kidneys belong to?",
+            "options": {
+                "1": "Urinary System",
+                "2": "Respiratory System",
+                "3": "Endocrine System",
+                "4": "Nervous System"
+            },
+            "answer": 1
+        },
+        {
+            "question": "What is the Latin name for the Bladder?",
+            "options": {
+                "1": "vesica urinaria",
+                "2": "renes",
+                "3": "splen",
+                "4": "cor"
+            },
+            "answer": 1
+        },
+        {
+            "question": "What is the main function of the Liver?",
+            "options": {
+                "1": "Produce bile and process nutrients from digestion.",
+                "2": "Protect the heart and lungs.",
+                "3": "Enable movement of the leg.",
+                "4": "Filter blood and produce urine."
+            },
+            "answer": 1
+        },
+        {
+            "question": "Which system does the Ovaries belong to?",
+            "options": {
+                "1": "Reproductive System",
+                "2": "Nervous System",
+                "3": "Digestive System",
+                "4": "Circulatory System"
+            },
+            "answer": 1
+        },
+        {
+            "question": "What is the main function of the Pectoral Muscles?",
+            "options": {
+                "1": "Facilitate shoulder and arm movement.",
+                "2": "Protect the brain.",
+                "3": "Regulate metabolism.",
+                "4": "Transmit signals in the body."
+            },
+            "answer": 1
+        },
+        {
+            "question": "Which system does the Femur belong to?",
+            "options": {
+                "1": "Skeletal System",
+                "2": "Muscular System",
+                "3": "Digestive System",
+                "4": "Immune System"
+            },
+            "answer": 1
+        },
+        {
+            "question": "What is the Latin name for the Skin?",
+            "options": {
+                "1": "cutis",
+                "2": "pulmo",
+                "3": "cor",
+                "4": "ventriculus"
+            },
+            "answer": 1
+        },
+        {
+            "question": "What is the main function of the Thyroid?",
+            "options": {
+                "1": "Regulate metabolism.",
+                "2": "Carry deoxygenated blood to the heart.",
+                "3": "Filter harmful substances from lymph.",
+                "4": "Enable movement of the leg."
+            },
+            "answer": 1
+        },
+        {
+            "question": "Which system does the Trachea belong to?",
+            "options": {
+                "1": "Respiratory System",
+                "2": "Circulatory System",
+                "3": "Skeletal System",
+                "4": "Immune System"
+            },
+            "answer": 1
+        },
+        {
+            "question": "What is the Latin name for the Nerves?",
+            "options": {
+                "1": "nervi",
+                "2": "cor",
+                "3": "intestinum tenue",
+                "4": "splen"
+            },
+            "answer": 1
+        },
+        {
+            "question": "What is the main function of the Adrenal Glands?",
+            "options": {
+                "1": "Produce hormones like adrenaline and cortisol.",
+                "2": "Pump blood and oxygen around the body.",
+                "3": "Protect the brain.",
+                "4": "Enable movement of the arm."
+            },
+            "answer": 1
+        },
+        {
+            "question": "Which system does the Diaphragm belong to?",
+            "options": {
+                "1": "Respiratory System",
+                "2": "Circulatory System",
+                "3": "Digestive System",
+                "4": "Muscular System"
+            },
+            "answer": 1
+        },
+        {
+            "question": "What is the main function of the Spleen?",
+            "options": {
+                "1": "Filter blood and help fight infections.",
+                "2": "Regulate metabolism.",
+                "3": "Break down food into nutrients.",
+                "4": "Enable movement of the arm."
+            },
+            "answer": 1
+        }
+    ]
+}
+
